@@ -1,0 +1,14 @@
+### Updates an existing patient entity
+PUT http://localhost:4000/patients/79bad5fb-e9d7-44e6-bb06-0732841668dd
+Content-Type: application/json
+
+{
+  "name": "Nhat Nam",
+  "email": "nam1a25q@gmail.com",
+  "phone": "0335495852",
+  "username": "Noerean",
+  "dateOfBirth": "18/03/2001",
+  "address": "737/5 Lac Long Quan, Ward Bay Hien, HCM City",
+  "password": "Nghia6063@"
+}
+
