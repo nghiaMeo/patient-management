@@ -1,5 +1,5 @@
-### GET request to example server
-GET https://examples.http-client.intellij.net/get
+### DELETE an entity
+DELETE http://localhost:4000/patients/307f8711-f6ea-4721-a1e4-8b9c836a17a9
     ?generated-in=IntelliJ IDEA
 
 ###
