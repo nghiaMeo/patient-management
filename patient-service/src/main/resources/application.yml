@@ -30,3 +30,9 @@ server:
 logging:
   level:
     root: info
+
+#grpc:
+#  client:
+#    billing-service:
+#      address: static://localhost:9001
+#      negotiationType: plaintext

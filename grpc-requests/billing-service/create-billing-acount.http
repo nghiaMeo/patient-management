@@ -1,0 +1,11 @@
+GRPC localhost:9001/BillingService/CreateBillingAccount
+
+
+{
+  "patientId": "12233",
+  "name": "Nguyen Hoang Anh Sao",
+  "email": "anhsao@gmail.com",
+  "username": "Anh Sao",
+  "phone": "0339941057",
+  "date_of_birth": "1997-07-12"
+}
